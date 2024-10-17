@@ -1,0 +1,6 @@
+Install Python on local machine
+install dnspython cmd: pip install dnspython
+just run script 
+use : 
+add all email list in emails.txt
+output will be in results.txt 
